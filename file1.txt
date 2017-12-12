@@ -9,3 +9,9 @@ addition to file 2 again.
 
     branch2
         one more commit in branch2
+
+
+    branch3
+        one more branch3
+        second checkin in branch3
+        third check in.
