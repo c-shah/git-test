@@ -3,3 +3,5 @@ This is file 1
 addition to file 1
 
 addition to file 2 again.
+
+    branch2
