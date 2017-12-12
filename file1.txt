@@ -1,6 +1,7 @@
 This is file 1
 
-file1 master is moving alone.....
+file1 master is moving alone..... .... ... ...
+... .. . . . .
 
 addition to file 1
 
