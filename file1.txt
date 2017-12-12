@@ -5,3 +5,6 @@ file1 master is moving alone.....
 addition to file 1
 
 addition to file 2 again.
+
+    branch2
+        one more commit in branch2
